@@ -22,11 +22,6 @@ export const THEME = extendTheme({
     },
     white: '#FFFFFF',
   },
-  fonts: {
-    heading: 'Roboto_700Bold',
-    body: 'Roboto_400Regular',
-    medium: 'Roboto_500Medium',
-  },
   fontSizes: {
     xs: 12,
     sm: 14,
@@ -36,5 +31,6 @@ export const THEME = extendTheme({
   },
   sizes: {
     14: 56,
+    22: 87,
   },
 });
