@@ -71,7 +71,7 @@ export default function NewPoll() {
           isLoading={isLoading}
         />
         <Text color="gray.200" fontSize="sm" textAlign="center" px={10} mt={4}>
-          Após cirar seu bolão, você receberá um código único que poderá usar
+          Após criar seu bolão, você receberá um código único que poderá usar
           para convidar outras pessoas.
         </Text>
       </VStack>
